@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <Urlget>https://restful-booker.herokuapp.com/booking</Urlget>
+    <Urlpost>https://restful-booker.herokuapp.com/booking</Urlpost>
+    <Urldelete>https://restful-booker.herokuapp.com/booking</Urldelete>
+    <Urlput>https://restful-booker.herokuapp.com/booking/8</Urlput>
+</Environment>
